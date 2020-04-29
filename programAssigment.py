@@ -11,7 +11,12 @@ Process: description of what function does
 Output: return value and description
 """
 
-def main():
-    # code here
 
-main()    
+def main():
+    print()
+    print("Hello Eddy")
+    print("test, test")
+    print()
+
+
+main()
